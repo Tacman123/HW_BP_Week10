@@ -91,6 +91,11 @@ DerivedDataCache/*
 #Starter Content
 Content/StarterContent/*
 
+#Third Person
+Content/__ExternalActors__/ThirdPerson/*
+Content/__ExternalObjects__/ThirdPerson/*
+Content/ThirdPerson/
+
 #First Person
 Content/__ExternalActors__/FirstPerson/*
 Content/__ExternalObjects__/FirstPerson/*
